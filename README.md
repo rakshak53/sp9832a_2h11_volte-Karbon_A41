@@ -1,16 +1,16 @@
 # sp9832a_2h11_volte-Karbon_A41
 
 # i'm trying to create device tree for this karbonn_a41_power any help appreciated.  
-# Karbonn A41 Power smartphone was launched in August 2017. 
-# The phone comes with a 4.00-inch touchscreen display with a resolution of 480x800 pixels.
-# Karbonn A41 Power is powered by a 1.3GHz quad-core processor. It comes with 1GB of RAM.
-# The Karbonn A41 Power runs Android 7.0 and is powered by a 2,300mAh non-removable battery.
-# As far as the cameras are concerned, the Karbonn A41 Power on the rear packs 2-megapixel camera.
-# It sports a 0.3-megapixel camera on the front for selfies. 
-# Karbonn A41 Power based on Android 7.0 and packs 8GB of inbuilt storage that can be expanded via microSD card (up to 32GB). 
-# The Karbonn A41 Power is a dual-SIM smartphone.
-# The Karbonn A41 Power measures 121.50 x 66.90 x 12.00mm (height x width x thickness) and weighs 130.00 grams.
-# It was launched in Black-Champagne, Black-Red, and White-Champagne colours.
+Karbonn A41 Power smartphone was launched in August 2017. 
+The phone comes with a 4.00-inch touchscreen display with a resolution of 480x800 pixels.
+Karbonn A41 Power is powered by a 1.3GHz quad-core processor. It comes with 1GB of RAM.
+The Karbonn A41 Power runs Android 7.0 and is powered by a 2,300mAh non-removable battery.
+As far as the cameras are concerned, the Karbonn A41 Power on the rear packs 2-megapixel camera.
+It sports a 0.3-megapixel camera on the front for selfies. 
+Karbonn A41 Power based on Android 7.0 and packs 8GB of inbuilt storage that can be expanded via microSD card (up to 32GB). 
+The Karbonn A41 Power is a dual-SIM smartphone.
+The Karbonn A41 Power measures 121.50 x 66.90 x 12.00mm (height x width x thickness) and weighs 130.00 grams.
+It was launched in Black-Champagne, Black-Red, and White-Champagne colours.
  
  
 
@@ -18,15 +18,15 @@
 
 
 
-# Display4.00-inch
-# Processor1.3GHz quad-core
-# Front Camera0.3-megapixel
-# Resolution480x800 pixels
-# RAM1GB
-# OSAndroid 7.0
-# Storage8GB
-# Rear Camera2-megapixel
-# Battery Capacity2300mAh
+Display4.00-inch
+Processor1.3GHz quad-core
+Front Camera0.3-megapixel
+Resolution480x800 pixels
+RAM1GB
+OSAndroid 7.0
+Storage8GB
+Rear Camera2-megapixel
+Battery Capacity2300mAh
 
    
 
