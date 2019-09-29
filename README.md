@@ -1,6 +1,5 @@
 # sp9832a_2h11_volte-Karbon_A41
-
-# i'm trying to create device tree for this karbonn_a41_power any help appreciated.  
+Spreadtrum
 Karbonn A41 Power smartphone was launched in August 2017. 
 The phone comes with a 4.00-inch touchscreen display with a resolution of 480x800 pixels.
 Karbonn A41 Power is powered by a 1.3GHz quad-core processor. It comes with 1GB of RAM.
